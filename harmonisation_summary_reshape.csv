@@ -1,0 +1,88 @@
+annotation,Original label
+B cells,"Braga et al. 2019:B cell & Martin et al. 2019:B cells & Miller et al. 2020:Hematopoietic, B Cells & Popescu et al. 2019:B cell & Stewart et al. 2019:B cell & Voigt et al. 2019:B-cell & Zheng et al. 2017:CD19+ B"
+CD8a/a,Park et al. 2020:CD8αα(I) & Park et al. 2020:CD8αα(II)
+CD8a/b(entry),Park et al. 2020:αβT(entry)
+CMP,HCA Immune 2018:CMP & HCA Immune 2018:No annotation
+Cycling B cells,James et al. 2020:B cell cycling & Smillie et al. 2019:Cycling B
+Cycling DCs,James et al. 2020:cycling DCs
+Cycling NK cells,Madissoon et al. 2020:NK_dividing
+Cycling T cells,Madissoon et al. 2020:T_cell_dividing & Smillie et al. 2019:Cycling T
+Cycling gamma-delta T cells,James et al. 2020:cycling gd T
+Cycling monocytes,Smillie et al. 2019:Cycling Monocytes
+Cytotoxic T cells,HCA Immune 2018:CD8 T cell & HCA Immune 2018:No annotation & HCA Immune 2018:mature CD8 T cell & Jaitin et al. 2019:No annotation & James et al. 2020:CD8 T & Madissoon et al. 2020:T_CD8 & Madissoon et al. 2020:T_CD8_MAIT & Smillie et al. 2019:CD8+ IELs & Smillie et al. 2019:CD8+ IL17+ & Smillie et al. 2019:CD8+ LP & Stewart et al. 2019:CD8 T cell & Szabo et al. 2019:CD8 & Vento-Tormo et al. 2018:PB clonal CD8 & Vento-Tormo et al. 2018:dT CD8 & Zhang et al. 2018:CD8+ T cells & Zheng et al. 2017:CD8+ Cytotoxic T
+DC,Braga et al. 2019:DCs & Madissoon et al. 2020:Dendritic_Cells & Stewart et al. 2019:MNP-c/dendritic cell & Zheng et al. 2017:Dendritic
+DC1,HCA Immune 2018:DC1 & HCA Immune 2018:No annotation & James et al. 2020:cDC1 & Madissoon et al. 2020:DC_1 & Park et al. 2020:DC1 & Popescu et al. 2019:DC1 & Smillie et al. 2019:DC1 & Vento-Tormo et al. 2018:DC1
+DC2,HCA Immune 2018:DC2 & HCA Immune 2018:No annotation & Jaitin et al. 2019:No annotation & James et al. 2020:cDC2 & Madissoon et al. 2020:DC_2 & Park et al. 2020:DC2 & Popescu et al. 2019:DC2 & Smillie et al. 2019:DC2 & Vento-Tormo et al. 2018:DC2
+DC3,HCA Immune 2018:DC3
+DC precursor,HCA Immune 2018:DC precursor & HCA Immune 2018:No annotation & HCA Immune 2018:pre DC & HCA Immune 2018:preDC & Popescu et al. 2019:DC pre
+Double-negative thymocytes,Park et al. 2020:DN(P) & Park et al. 2020:DN(Q) & Park et al. 2020:DN(early)
+Double-positive thymocytes,Park et al. 2020:DP(P) & Park et al. 2020:DP(Q)
+ELP,HCA Immune 2018:ELP-B cell & HCA Immune 2018:ELP-pDC
+ETP,Park et al. 2020:ETP
+Early MK,HCA Immune 2018:No annotation & HCA Immune 2018:early MK
+Early erythroid,HCA Immune 2018:No annotation & HCA Immune 2018:early erythroid & Popescu et al. 2019:Early erythroid
+Early lymphoid/T lymphoid,Popescu et al. 2019:Early L/TL
+Endothelial cells,Park et al. 2020:Endothelial cells
+Epithelial cells,Park et al. 2020:Epithelial cells
+Erythrocytes,Miller et al. 2020:RBC & Park et al. 2020:Ery
+Fibroblasts,Park et al. 2020:Fib_thymus
+Follicular B cells,James et al. 2020:Follicular B cell & Smillie et al. 2019:Follicular
+Follicular helper T cells,James et al. 2020:Tfh & Madissoon et al. 2020:T_CD4_fh & Park et al. 2020:Tfh
+GMP,HCA Immune 2018:GMP
+Germinal center B cells,Madissoon et al. 2020:B_Hypermutation & Smillie et al. 2019:GC
+Granulocytes,Vento-Tormo et al. 2018:Granulocytes
+HSC/MPP,HCA Immune 2018:HSC & HCA Immune 2018:No annotation & Jaitin et al. 2019:No annotation & Popescu et al. 2019:HSC/MPP
+Helper T cells,HCA Immune 2018:No annotation & Jaitin et al. 2019:No annotation & James et al. 2020:Activated CD4 T & Madissoon et al. 2020:T_CD4 & Madissoon et al. 2020:T_CD4_conv & Madissoon et al. 2020:T_CD4_naive & Miragaia et al. 2019:Tcm & Miragaia et al. 2019:Tem & Smillie et al. 2019:CD4+ Activated Fos-hi & Smillie et al. 2019:CD4+ Activated Fos-lo & Smillie et al. 2019:CD4+ Memory & Smillie et al. 2019:CD4+ PD1+ & Stewart et al. 2019:CD4 T cell & Szabo et al. 2019:CD4 & Vento-Tormo et al. 2018:dT CD4 & Zhang et al. 2018:CD4+ CD25- T cells & Zhang et al. 2018:CD4+ CD25mediate T cells & Zhang et al. 2018:CD4+ T cells & Zheng et al. 2017:CD4+ T Helper
+Hofbauer cells,Vento-Tormo et al. 2018:HB
+ILC,James et al. 2020:ILC & Madissoon et al. 2020:ILC & Martin et al. 2019:ILC & Smillie et al. 2019:ILCs
+ILC1,Bjorklund et al. 2016:ILC1
+ILC2,Bjorklund et al. 2016:ILC2
+ILC3,Bjorklund et al. 2016:ILC3 & Park et al. 2020:ILC3 & Vento-Tormo et al. 2018:ILC3
+ILC precursor,HCA Immune 2018:ILC precursor & Popescu et al. 2019:ILC pre
+Immature B cells,HCA Immune 2018:No annotation & HCA Immune 2018:immature B cell
+Kidney-resident macrophages,Stewart et al. 2019:MNP-d/Tissue macrophage
+Kupffer cells,Popescu et al. 2019:Kupffer
+Late erythroid,HCA Immune 2018:late erythroid & Popescu et al. 2019:Late erythroid
+MAIT cells,Vento-Tormo et al. 2018:MAIT
+MEMP,HCA Immune 2018:MEMP & HCA Immune 2018:No annotation
+MNP,Martin et al. 2019:MNP
+Macrophages,"Braga et al. 2019:Macrophages & Jaitin et al. 2019:No annotation & James et al. 2020:LYVE1 Macrophage & James et al. 2020:Macrophage & Li et al. 2019:No annotation & Madissoon et al. 2020:Macrophage & Miller et al. 2020:Hematopoietic, Macrophage & Park et al. 2020:Mac & Popescu et al. 2019:VCAM1+ EI mac & Smillie et al. 2019:Macrophages & Stewart et al. 2019:MNP-b/non-classical monocyte derived & Vento-Tormo et al. 2018:HB & Vento-Tormo et al. 2018:dM1 & Vento-Tormo et al. 2018:dM2 & Vento-Tormo et al. 2018:dM3 & Voigt et al. 2019:Macrophage"
+Mast cells,Braga et al. 2019:Mast cell & James et al. 2020:Mast & Madissoon et al. 2020:Mast_cell & Martin et al. 2019:Mast cells & Park et al. 2020:Mast & Popescu et al. 2019:Mast cell & Smillie et al. 2019:CD69+ Mast & Smillie et al. 2019:CD69- Mast & Stewart et al. 2019:Mast cell & Voigt et al. 2019:Mast-cell
+Megakaryocyte precursor,HCA Immune 2018:MK progenitor
+Megakaryocyte-erythroid-mast cell progenitor,Popescu et al. 2019:MEMP
+Megakaryocytes/platelets,HCA Immune 2018:MK & Madissoon et al. 2020:Platelet & Park et al. 2020:Mgk & Popescu et al. 2019:Megakaryocyte
+Memory B cells,HCA Immune 2018:No annotation & HCA Immune 2018:memory B cell & James et al. 2020:B cell memory & Madissoon et al. 2020:B_CD27pos & Madissoon et al. 2020:B_follicular & Park et al. 2020:B_memory
+Memory CD4+ cytotoxic T cells,Park et al. 2020:CD4+CTL
+Mid erythroid,HCA Immune 2018:mid erythroid & Popescu et al. 2019:Mid erythroid
+Migratory DCs,James et al. 2020:Lymphoid DC & Madissoon et al. 2020:DC_activated & Park et al. 2020:aDC1 & Park et al. 2020:aDC2 & Park et al. 2020:aDC3
+Mono-mac,HCA Immune 2018:monocyte-DC & Madissoon et al. 2020:Mono_macro & Popescu et al. 2019:Mono-mac
+Monocyte precursor,HCA Immune 2018:No annotation & HCA Immune 2018:monocyte precursor & HCA Immune 2018:pre monocyte & HCA Immune 2018:premonocyte & Popescu et al. 2019:Mono pre
+Monocytes,Braga et al. 2019:Neutrophils & HCA Immune 2018:CD14 monocyte & HCA Immune 2018:CD16 monocyte & HCA Immune 2018:No annotation & HCA Immune 2018:interferon induced monocyte & Jaitin et al. 2019:No annotation & James et al. 2020:Monocyte & Madissoon et al. 2020:Monocyte & Park et al. 2020:Mono & Popescu et al. 2019:Monocyte & Smillie et al. 2019:Inflammatory Monocytes & Stewart et al. 2019:MNP-a/classical monocyte derived & Vento-Tormo et al. 2018:MO & Zheng et al. 2017:CD14+ Monocyte
+Myelocytes,HCA Immune 2018:No annotation & HCA Immune 2018:myelocyte
+NK cells,"Bjorklund et al. 2016:NK & Braga et al. 2019:NK & HCA Immune 2018:CD56 bright NK & HCA Immune 2018:No annotation & HCA Immune 2018:mature NK & Jaitin et al. 2019:No annotation & James et al. 2020:NK & Madissoon et al. 2020:NK_CD160pos & Madissoon et al. 2020:NK_FCGR3Apos & Miller et al. 2020:Hematopoietic, Natural Killer Cell & Park et al. 2020:NK & Popescu et al. 2019:NK & Smillie et al. 2019:NKs & Stewart et al. 2019:NK cell & Vento-Tormo et al. 2018:NK CD16+ & Vento-Tormo et al. 2018:NK CD16- & Vento-Tormo et al. 2018:dNK p & Vento-Tormo et al. 2018:dNK1 & Vento-Tormo et al. 2018:dNK2 & Vento-Tormo et al. 2018:dNK3 & Zheng et al. 2017:CD56+ NK"
+NKT cells,Park et al. 2020:NKT & Stewart et al. 2019:NKT cell
+Naive B cells,HCA Immune 2018:No annotation & HCA Immune 2018:naive B cell & Jaitin et al. 2019:No annotation & Madissoon et al. 2020:B_CD27neg & Madissoon et al. 2020:B_mantle & Park et al. 2020:B_naive
+Neutrophil-myeloid progenitor,Park et al. 2020:NMP & Popescu et al. 2019:Neut-my pro
+Neutrophils,HCA Immune 2018:No annotation & HCA Immune 2018:neut myeloid & HCA Immune 2018:neutrophil & Madissoon et al. 2020:Monocyte & Stewart et al. 2019:Neutrophil
+Plasmablasts,HCA Immune 2018:No annotation & HCA Immune 2018:plasma cell & James et al. 2020:B cell IgA Plasma & James et al. 2020:B cell IgG Plasma & Madissoon et al. 2020:Plasma_IgG & Madissoon et al. 2020:Plasma_IgM & Madissoon et al. 2020:Plasmablast & Martin et al. 2019:Plasma cells & Park et al. 2020:B_plasma & Smillie et al. 2019:Plasma & Vento-Tormo et al. 2018:Plasma
+Pre-B cells,HCA Immune 2018:No annotation & HCA Immune 2018:Pre B cell & Popescu et al. 2019:pre-B cell
+Pre-pro-B cells,Park et al. 2020:B_pro/pre & Popescu et al. 2019:Pre pro-B cell
+Pro-B cells,HCA Immune 2018:No annotation & HCA Immune 2018:pro B progenitor & Popescu et al. 2019:pro-B cell
+Promyelocytes,HCA Immune 2018:No annotation & HCA Immune 2018:promyelocyte
+Regulatory T cells,HCA Immune 2018:No annotation & HCA Immune 2018:T reg & Jaitin et al. 2019:No annotation & James et al. 2020:Treg & Li et al. 2019:No annotation & Madissoon et al. 2020:T_CD4_reg & Miragaia et al. 2019:Treg & Park et al. 2020:Treg & Smillie et al. 2019:Tregs & Vento-Tormo et al. 2018:Treg & Zhang et al. 2018:CD4+ CD25high T cells & Zheng et al. 2017:CD4+/CD25 T Reg
+T cells,"Braga et al. 2019:T cell & Madissoon et al. 2020:T_CD8_gd & Martin et al. 2019:T cells & Miller et al. 2020:Hematopoietic, T Cells"
+T(agonist),Park et al. 2020:T(agonist)
+Tcm/Naive cytotoxic T cells,HCA Immune 2018:No annotation & HCA Immune 2018:naive CD8 T cell & Park et al. 2020:CD8+T & Vento-Tormo et al. 2018:PB Naive CD8 & Zheng et al. 2017:CD8+/CD45RA+ Naive Cytotoxic
+Tcm/Naive helper T cells,HCA Immune 2018:No annotation & HCA Immune 2018:naive CD4 T cell & Jaitin et al. 2019:No annotation & James et al. 2020:Tcm & Li et al. 2019:No annotation & Park et al. 2020:CD4+T & Vento-Tormo et al. 2018:PB Naive CD4  & Zheng et al. 2017:CD4+/CD45RA+/CD25- Naive T
+Tem/Effector cytotoxic T cells,Madissoon et al. 2020:NK_T_CD8_Cytotoxic & Madissoon et al. 2020:T_CD8_CTL & Madissoon et al. 2020:T_CD8_activated & Park et al. 2020:CD8+Tmem & Voigt et al. 2019:T/NK-cell
+Tem/Effector helper T cells,HCA Immune 2018:No annotation & HCA Immune 2018:memory CD4 T cell & Jaitin et al. 2019:No annotation & Park et al. 2020:CD4+Tmem & Zheng et al. 2017:CD4+/CD45RO+ Memory
+Tem/Effector helper T cells PD1+,Park et al. 2020:CD4+PD1
+Transitional B cells,HCA Immune 2018:transitional B cell
+Transitional DC,HCA Immune 2018:tDC & HCA Immune 2018:transitional DC 
+Transitional NK,HCA Immune 2018:transitional NK
+Treg(diff),Park et al. 2020:Treg(diff)
+Type 1 helper T cells,James et al. 2020:Th1
+Type 17 helper T cells,James et al. 2020:Th17 & Park et al. 2020:Th17
+gamma-delta T cells,James et al. 2020:gd T & Park et al. 2020:γδT
+pDC,HCA Immune 2018:No annotation & HCA Immune 2018:pDC & Jaitin et al. 2019:No annotation & James et al. 2020:pDC & Madissoon et al. 2020:DC_plasmacytoid & Park et al. 2020:pDC & Stewart et al. 2019:Plasmacytoid dendritic cell
+pDC precursor,Popescu et al. 2019:pDC pre

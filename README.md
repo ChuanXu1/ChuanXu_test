@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary><h1>1. Use in the Python environment</h1></summary>
 
 <details>

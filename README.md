@@ -1,14 +1,14 @@
 <details open>
-<summary>##1. Use in the Python environment</summary>
+<summary><h1>1. Use in the Python environment</h1></summary>
 
 <details>
-<summary>##1.1. Import the module</summary>
+<summary><h2>1.1. Import the module</h2></summary>
 
 content1
 </details>
 
 <details>
-<summary>##1.2. Export the module</summary>
+<summary><h2>1.2. Export the module</h2></summary>
 
 content2
 </details>

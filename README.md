@@ -1,5 +1,6 @@
 <details open>
-<summary><h1>1. Use in the Python environment</h1></summary>
+<summary>1. Use in the Python environment</summary>
+===============
 <details>
 <summary><h2>1.1. Import the module</h2></summary>
 content1

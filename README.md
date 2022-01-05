@@ -1,12 +1,14 @@
 <details open>
-<summary>1. Use in the Python environment</summary>
-===============
+<h1><summary>. Use in the Python environment</summary></h1>
+
 <details>
-<summary><h2>1.1. Import the module</h2></summary>
+<h2><summary>1.1. Import the module</summary></h2>
 content1
 </details>
+
 <details>
-<summary><h2>1.2. Export the module</h2></summary>
+<h2><summary>1.2. Export the module</h2></summary></h2>
 content2
 </details>
+
 </details>

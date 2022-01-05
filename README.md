@@ -1,13 +1,13 @@
 <details>
-<summary><h1>Use in the Python environment</h1></summary>
+<summary><strong>1. Use in the Python environment</strong></summary>
 
 + <details>
-  <summary><h2>1.1. Import the module</h2></summary>
+  <summary><strong>1.1. Import the module</strong></summary>
   content1
   </details>
 
 + <details>
-  <summary><h2>1.2. Export the module</h2></summary>
+  <summary><strong>1.2. Export the module</strong></summary>
   content2
   </details>
 

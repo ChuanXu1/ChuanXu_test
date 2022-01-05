@@ -6,11 +6,9 @@
 
 	content1
 	</details>
-
 	<details>
 	<summary>##1.2. Export the module</summary>
 
 	content2
 	</details>
-
 </details>
